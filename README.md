@@ -1,4 +1,9 @@
 # so_long
+
+# received 100% -- read further...
+path-finding algorithm needs slight adjustment as the map must currently have a
+path AROUND the collectible to find the exit, should be a simple fix.
+
 A basic 2D top-down game, written in C, designed for the project so_long, at 42 School.
 
 A couple notes, ft_printf in libft does not work on my m1 mac, so i compiled all the libraries with the command arch -x86_64
